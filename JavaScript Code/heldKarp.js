@@ -12,7 +12,7 @@ function heldKarp(cities, start, seenNodes, firstRunTester, finishedNodes, finis
         //Checks the case for if we pass it no cities
         if (!cities.length)
         {
-            return 70;
+             return "No Cities Available, Please Add Input" 
             
         }
         
